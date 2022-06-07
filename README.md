@@ -16,4 +16,5 @@ ShoppingPal is a personal application used to aid shopping. It offers a mutual l
   3. Expandable views
   4. Authentication
   5. Expanses mean
+  6. Parallax animation
 
